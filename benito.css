@@ -1,0 +1,28 @@
+body {
+  background: #b1d3b9;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color: green;
+}
+h3 {
+  color: green;
+}
+p1 {
+  color: #ffffff;
+  font-style: italic;
+}
+img {
+  width: 300px;
+  height: 400px;
+  border: dotted;
+  align-content: flex-end;
+  border-color: #ffffff;
+}
+body {
+  background-image: linear-gradient(to bottom, #bee3c6, #486f48);
+}
+

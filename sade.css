@@ -1,0 +1,30 @@
+body {
+  background: #bf99bf;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  color: #8d4ea1;
+}
+h3 {
+  color: #763b88;
+}
+p1 {
+  color: white;
+  font-style: italic;
+}
+img {
+  width: 350px;
+  height: 400px;
+  border: dotted;
+  align-content: flex-end;
+  border-color: white;
+}
+body {
+  background-image: linear-gradient(to bottom, #bf99bf, #8d4ea1);
+}
+li{
+  color: #763b88;
+}

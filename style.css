@@ -1,0 +1,28 @@
+body {
+  background: #fcf2ca;
+}
+p {
+  color: black;
+  font-size: 19px;
+}
+p1{
+  font-style: italic;
+  color: grey;
+}
+h1 {
+  font-weight: bold;
+  font-family: inherit;
+  color: #5ac9c9;
+}
+body {
+  color: #5ac9c9;
+}
+img {
+  width: 300px;
+  height: 400px;
+  border: dotted;
+  border-color: aqua;
+}
+a {
+  color: #338e8e;
+}
